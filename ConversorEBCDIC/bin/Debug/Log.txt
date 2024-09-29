@@ -1,0 +1,506 @@
+15/07/2024 13:39:55 Entra en conversor 1
+15/07/2024 13:40:29 RellenarListaConversion
+15/07/2024 13:40:29 RellenarListaConversionWindows_EBCDIC
+15/07/2024 13:40:34 Parametros
+15/07/2024 13:40:34 archivoOrigen:E:\DATOS\1_Conversor\resultado2\BI11.MIGRA.A0000002.ONLINE.COMP0001.BIN
+15/07/2024 13:40:34 archivoDestino:E:\DATOS\1_Conversor\resultado2\BI11.MIGRA.A0000002.ONLINE.COMP0001.DAT
+15/07/2024 13:40:35 archivoCpy:E:\DATOS\1_Conversor\resultado2\BDCON32I.cpy
+15/07/2024 13:40:35 formatoOrigen:EBCDIC-CP284
+15/07/2024 13:40:49 formatoDestino: WIN-1252
+15/07/2024 13:40:50 longitud: 
+15/07/2024 14:38:06 Entra en conversor 1
+15/07/2024 14:39:00 RellenarListaConversion
+15/07/2024 14:39:00 RellenarListaConversionWindows_EBCDIC
+15/07/2024 14:39:02 Parametros
+15/07/2024 14:39:02 archivoOrigen:E:\DATOS\1_Conversor\resultado2\BI11.MIGRA.A0000002.ONLINE.COMP0001.BIN
+15/07/2024 14:39:02 archivoDestino:E:\DATOS\1_Conversor\resultado2\BI11.MIGRA.A0000002.ONLINE.COMP0001.DAT
+15/07/2024 14:39:02 archivoCpy:E:\DATOS\1_Conversor\resultado2\BDCON32I.cpy
+15/07/2024 14:39:02 formatoOrigen:EBCDIC-CP284
+15/07/2024 14:39:02 formatoDestino: WIN-1252
+15/07/2024 14:39:02 longitud: 
+15/07/2024 14:51:07 Ha convertido
+02/08/2024 12:24:03 Entra en conversor 1
+02/08/2024 12:24:10 RellenarListaConversion
+02/08/2024 12:24:10 RellenarListaConversionWindows_EBCDIC
+02/08/2024 12:25:58 Parametros
+02/08/2024 12:25:58 archivoOrigen:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.BIN
+02/08/2024 12:25:58 archivoDestino:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.DAT
+02/08/2024 12:25:59 archivoCpy:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BDACT12W.cpy
+02/08/2024 12:25:59 formatoOrigen:EBCDIC-CP284
+02/08/2024 12:26:00 formatoDestino: WIN-1252
+02/08/2024 12:26:00 longitud: 
+02/08/2024 12:40:13 Entra en conversor 1
+02/08/2024 12:40:14 RellenarListaConversion
+02/08/2024 12:40:14 RellenarListaConversionWindows_EBCDIC
+02/08/2024 12:40:15 Parametros
+02/08/2024 12:40:15 archivoOrigen:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.BIN
+02/08/2024 12:40:15 archivoDestino:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.DAT
+02/08/2024 12:40:15 archivoCpy:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BDACT12W.cpy
+02/08/2024 12:40:15 formatoOrigen:EBCDIC-CP284
+02/08/2024 12:40:15 formatoDestino: WIN-1252
+02/08/2024 12:40:15 longitud: 
+02/08/2024 12:42:43 Ha convertido
+02/08/2024 14:12:31 Entra en conversor 1
+02/08/2024 14:12:32 RellenarListaConversion
+02/08/2024 14:12:33 RellenarListaConversionWindows_EBCDIC
+02/08/2024 14:12:34 Parametros
+02/08/2024 14:12:34 archivoOrigen:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.BIN
+02/08/2024 14:12:34 archivoDestino:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BI11.MIGRA.A0000007.ONLINE.COMP0002.DAT
+02/08/2024 14:12:34 archivoCpy:D:\Clientes\0_DptoInterior\tmp\comparar tablas\2-Tabla BDACT12W casi iguales\generar\BDACT12W.cpy
+02/08/2024 14:12:34 formatoOrigen:EBCDIC-CP284
+02/08/2024 14:12:34 formatoDestino: WIN-1252
+02/08/2024 14:12:34 longitud: 
+02/08/2024 14:30:32 Ha convertido
+12/09/2024 12:24:14 Entra en conversor 1
+12/09/2024 12:24:19 RellenarListaConversion
+12/09/2024 12:24:19 RellenarListaConversionWindows_EBCDIC
+12/09/2024 12:24:22 Parametros
+12/09/2024 12:24:22 archivoOrigen:U:\01-WORK\Herramienta\BI11.MIGRA.A0000031.ONLINE.COMP0004.BIN
+12/09/2024 12:24:22 archivoDestino:U:\01-WORK\Herramienta\BI11.MIGRA.A0000031.ONLINE.COMP0004.DAT
+12/09/2024 12:24:22 archivoCpy:U:\01-WORK\Herramienta\BDCOM1BQ6.cpy
+12/09/2024 12:24:22 formatoOrigen:EBCDIC-CP284
+12/09/2024 12:24:22 formatoDestino: WIN-1252
+12/09/2024 12:24:22 longitud: 
+12/09/2024 12:24:30 Ha convertido
+12/09/2024 13:21:43 Entra en conversor 1
+12/09/2024 13:21:45 RellenarListaConversion
+12/09/2024 13:21:45 RellenarListaConversionWindows_EBCDIC
+12/09/2024 13:21:47 Parametros
+12/09/2024 13:21:47 archivoOrigen:U:\01-WORK\Herramienta\BI11.MIGRA.A0000031.ONLINE.COMP0004.BIN
+12/09/2024 13:21:47 archivoDestino:U:\01-WORK\Herramienta\BI11.MIGRA.A0000031.ONLINE.COMP0004.DAT
+12/09/2024 13:21:47 archivoCpy:U:\01-WORK\Herramienta\BDCOM1BQ6.cpy
+12/09/2024 13:21:47 formatoOrigen:EBCDIC-CP284
+12/09/2024 13:21:47 formatoDestino: WIN-1252
+12/09/2024 13:21:47 longitud: 
+12/09/2024 13:21:56 Ha convertido
+12/09/2024 13:42:06 Entra en conversor 1
+12/09/2024 13:42:08 RellenarListaConversion
+12/09/2024 13:42:08 RellenarListaConversionWindows_EBCDIC
+12/09/2024 13:42:10 Parametros
+12/09/2024 13:42:10 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 13:42:10 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 13:42:10 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 13:42:10 formatoOrigen:EBCDIC-CP284
+12/09/2024 13:42:10 formatoDestino: WIN-1252
+12/09/2024 13:42:10 longitud: 
+12/09/2024 14:09:37 Entra en conversor 1
+12/09/2024 14:09:40 RellenarListaConversion
+12/09/2024 14:09:40 RellenarListaConversionWindows_EBCDIC
+12/09/2024 14:09:41 Parametros
+12/09/2024 14:09:41 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 14:09:41 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 14:09:41 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 14:09:41 formatoOrigen:EBCDIC-CP284
+12/09/2024 14:09:41 formatoDestino: WIN-1252
+12/09/2024 14:09:41 longitud: 
+12/09/2024 21:30:00 Entra en conversor 1
+12/09/2024 21:30:03 RellenarListaConversion
+12/09/2024 21:30:03 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:30:05 Parametros
+12/09/2024 21:30:05 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:30:05 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:30:05 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:30:05 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:30:05 formatoDestino: WIN-1252
+12/09/2024 21:30:05 longitud: 
+12/09/2024 21:30:14 Ha convertido
+12/09/2024 21:31:30 Entra en conversor 1
+12/09/2024 21:31:32 RellenarListaConversion
+12/09/2024 21:31:32 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:31:33 Parametros
+12/09/2024 21:31:33 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:31:33 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:31:33 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:31:33 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:31:33 formatoDestino: WIN-1252
+12/09/2024 21:31:33 longitud: 
+12/09/2024 21:34:12 Entra en conversor 1
+12/09/2024 21:34:14 RellenarListaConversion
+12/09/2024 21:34:14 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:34:15 Parametros
+12/09/2024 21:34:15 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:34:15 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:34:15 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:34:15 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:34:15 formatoDestino: WIN-1252
+12/09/2024 21:34:15 longitud: 
+12/09/2024 21:34:58 Entra en conversor 1
+12/09/2024 21:35:01 RellenarListaConversion
+12/09/2024 21:35:01 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:35:02 Parametros
+12/09/2024 21:35:02 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:35:02 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:35:02 archivoCpy:
+12/09/2024 21:35:02 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:35:02 formatoDestino: WIN-1252
+12/09/2024 21:35:02 longitud: 
+12/09/2024 21:35:43 Entra en conversor 1
+12/09/2024 21:35:45 RellenarListaConversion
+12/09/2024 21:35:45 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:35:46 Parametros
+12/09/2024 21:35:46 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:35:46 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:35:46 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:35:46 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:35:46 formatoDestino: WIN-1252
+12/09/2024 21:35:46 longitud: 
+12/09/2024 21:37:44 Entra en conversor 1
+12/09/2024 21:37:46 RellenarListaConversion
+12/09/2024 21:37:46 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:37:47 Parametros
+12/09/2024 21:37:47 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:37:47 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:37:47 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:37:47 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:37:47 formatoDestino: WIN-1252
+12/09/2024 21:37:47 longitud: 
+12/09/2024 21:39:56 Entra en conversor 1
+12/09/2024 21:40:01 RellenarListaConversion
+12/09/2024 21:40:01 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:40:02 Parametros
+12/09/2024 21:40:02 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:40:02 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:40:02 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:40:02 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:40:02 formatoDestino: WIN-1252
+12/09/2024 21:40:02 longitud: 
+12/09/2024 21:45:08 Entra en conversor 1
+12/09/2024 21:45:09 RellenarListaConversion
+12/09/2024 21:45:09 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:45:11 Parametros
+12/09/2024 21:45:11 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:45:11 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:45:11 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:45:11 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:45:11 formatoDestino: WIN-1252
+12/09/2024 21:45:11 longitud: 
+12/09/2024 21:45:47 Entra en conversor 1
+12/09/2024 21:45:50 RellenarListaConversion
+12/09/2024 21:45:50 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:45:52 Parametros
+12/09/2024 21:45:52 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:45:52 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:45:52 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:45:52 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:45:52 formatoDestino: WIN-1252
+12/09/2024 21:45:52 longitud: 
+12/09/2024 21:50:45 Entra en conversor 1
+12/09/2024 21:50:46 RellenarListaConversion
+12/09/2024 21:50:46 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:50:47 Parametros
+12/09/2024 21:50:47 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:50:47 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:50:47 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:50:47 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:50:47 formatoDestino: WIN-1252
+12/09/2024 21:50:47 longitud: 
+12/09/2024 21:54:13 Entra en conversor 1
+12/09/2024 21:54:15 RellenarListaConversion
+12/09/2024 21:54:15 RellenarListaConversionWindows_EBCDIC
+12/09/2024 21:54:16 Parametros
+12/09/2024 21:54:16 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+12/09/2024 21:54:16 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+12/09/2024 21:54:16 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+12/09/2024 21:54:16 formatoOrigen:EBCDIC-CP284
+12/09/2024 21:54:16 formatoDestino: WIN-1252
+12/09/2024 21:54:16 longitud: 
+13/09/2024 13:27:21 Entra en conversor 1
+13/09/2024 13:27:25 Parametros
+13/09/2024 13:27:25 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+13/09/2024 13:27:25 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+13/09/2024 13:27:25 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+13/09/2024 13:27:25 formatoOrigen:EBCDIC-CP284
+13/09/2024 13:27:25 formatoDestino: WIN-1252
+13/09/2024 13:27:25 longitud: 
+13/09/2024 13:27:25 Ha convertido
+13/09/2024 13:27:48 Entra en conversor 1
+13/09/2024 13:27:57 Parametros
+13/09/2024 13:27:57 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+13/09/2024 13:27:57 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+13/09/2024 13:27:57 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+13/09/2024 13:27:57 formatoOrigen:EBCDIC-CP284
+13/09/2024 13:27:57 formatoDestino: WIN-1252
+13/09/2024 13:27:57 longitud: 
+13/09/2024 13:27:57 Ha convertido
+13/09/2024 13:29:20 Entra en conversor 1
+13/09/2024 13:29:23 Parametros
+13/09/2024 13:29:23 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+13/09/2024 13:29:23 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+13/09/2024 13:29:23 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+13/09/2024 13:29:23 formatoOrigen:EBCDIC-CP284
+13/09/2024 13:29:23 formatoDestino: WIN-1252
+13/09/2024 13:29:23 longitud: 
+13/09/2024 13:29:32 Ha convertido
+14/09/2024 13:37:18 Entra en conversor 1
+14/09/2024 13:37:22 Parametros
+14/09/2024 13:37:22 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 13:37:22 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 13:37:22 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 13:37:22 formatoOrigen:EBCDIC-CP284
+14/09/2024 13:37:22 formatoDestino: WIN-1252
+14/09/2024 13:37:22 longitud: 
+14/09/2024 13:37:28 Ha convertido
+14/09/2024 13:50:16 Entra en conversor 1
+14/09/2024 13:50:18 Parametros
+14/09/2024 13:50:18 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 13:50:18 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 13:50:18 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 13:50:18 formatoOrigen:EBCDIC-CP284
+14/09/2024 13:50:18 formatoDestino: WIN-1252
+14/09/2024 13:50:18 longitud: 
+14/09/2024 14:06:48 Entra en conversor 1
+14/09/2024 14:06:49 Parametros
+14/09/2024 14:06:49 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:06:49 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:06:49 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:06:49 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:06:49 formatoDestino: WIN-1252
+14/09/2024 14:06:49 longitud: 
+14/09/2024 14:06:51 Ha convertido
+14/09/2024 14:10:17 Entra en conversor 1
+14/09/2024 14:10:18 Parametros
+14/09/2024 14:10:18 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:10:18 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:10:18 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:10:18 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:10:18 formatoDestino: WIN-1252
+14/09/2024 14:10:18 longitud: 
+14/09/2024 14:12:05 Entra en conversor 1
+14/09/2024 14:12:06 Parametros
+14/09/2024 14:12:06 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:12:06 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:12:06 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:12:06 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:12:06 formatoDestino: WIN-1252
+14/09/2024 14:12:06 longitud: 
+14/09/2024 14:12:18 Ha convertido
+14/09/2024 14:12:51 Entra en conversor 1
+14/09/2024 14:12:52 Parametros
+14/09/2024 14:12:52 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:12:52 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:12:52 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:12:52 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:12:52 formatoDestino: WIN-1252
+14/09/2024 14:12:52 longitud: 
+14/09/2024 14:12:54 Ha convertido
+14/09/2024 14:14:24 Entra en conversor 1
+14/09/2024 14:14:26 Parametros
+14/09/2024 14:14:26 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:14:26 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:14:26 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:14:26 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:14:26 formatoDestino: WIN-1252
+14/09/2024 14:14:26 longitud: 
+14/09/2024 14:19:58 Entra en conversor 1
+14/09/2024 14:20:00 Parametros
+14/09/2024 14:20:00 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 14:20:00 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 14:20:00 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:20:00 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:20:00 formatoDestino: WIN-1252
+14/09/2024 14:20:00 longitud: 
+14/09/2024 14:20:00 Ha convertido
+14/09/2024 14:28:08 Entra en conversor 1
+14/09/2024 14:28:10 Parametros
+14/09/2024 14:28:10 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:28:10 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:28:10 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:28:10 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:28:10 formatoDestino: WIN-1252
+14/09/2024 14:28:10 longitud: 
+14/09/2024 14:28:23 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:28:23 Ha convertido
+14/09/2024 14:30:49 Entra en conversor 1
+14/09/2024 14:30:51 Parametros
+14/09/2024 14:30:51 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:30:51 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:30:51 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:30:51 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:30:51 formatoDestino: WIN-1252
+14/09/2024 14:30:51 longitud: 
+14/09/2024 14:31:04 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:31:04 Ha convertido
+14/09/2024 14:32:29 Entra en conversor 1
+14/09/2024 14:32:31 Parametros
+14/09/2024 14:32:31 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:32:31 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:32:31 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:32:31 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:32:31 formatoDestino: WIN-1252
+14/09/2024 14:32:31 longitud: 
+14/09/2024 14:32:46 Ha convertido
+14/09/2024 14:47:25 Entra en conversor 1
+14/09/2024 14:47:27 Parametros
+14/09/2024 14:47:27 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:47:27 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:47:27 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:47:27 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:47:27 formatoDestino: WIN-1252
+14/09/2024 14:47:27 longitud: 
+14/09/2024 14:47:42 Ha convertido
+14/09/2024 14:50:29 Entra en conversor 1
+14/09/2024 14:50:30 Parametros
+14/09/2024 14:50:30 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:50:30 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:50:30 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:50:30 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:50:30 formatoDestino: WIN-1252
+14/09/2024 14:50:30 longitud: 
+14/09/2024 14:52:46 Entra en conversor 1
+14/09/2024 14:52:53 Parametros
+14/09/2024 14:52:53 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:52:53 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:52:53 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:52:53 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:52:53 formatoDestino: WIN-1252
+14/09/2024 14:52:53 longitud: 
+14/09/2024 14:53:23 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:53:23 Ha convertido
+14/09/2024 14:54:15 Entra en conversor 1
+14/09/2024 14:54:16 Parametros
+14/09/2024 14:54:16 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:54:16 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:54:16 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:54:16 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:54:16 formatoDestino: WIN-1252
+14/09/2024 14:54:16 longitud: 
+14/09/2024 14:55:18 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:55:18 Ha convertido
+14/09/2024 14:58:15 Entra en conversor 1
+14/09/2024 14:58:16 Parametros
+14/09/2024 14:58:16 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:58:16 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:58:16 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:58:16 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:58:16 formatoDestino: WIN-1252
+14/09/2024 14:58:16 longitud: 
+14/09/2024 14:58:27 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:58:27 Ha convertido
+14/09/2024 14:59:01 Entra en conversor 1
+14/09/2024 14:59:03 Parametros
+14/09/2024 14:59:03 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 14:59:03 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 14:59:03 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 14:59:03 formatoOrigen:EBCDIC-CP284
+14/09/2024 14:59:03 formatoDestino: WIN-1252
+14/09/2024 14:59:03 longitud: 
+14/09/2024 14:59:52 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 14:59:52 Ha convertido
+14/09/2024 15:00:32 Entra en conversor 1
+14/09/2024 15:00:33 Parametros
+14/09/2024 15:00:33 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 15:00:33 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0003.DAT
+14/09/2024 15:00:33 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:00:33 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:00:33 formatoDestino: WIN-1252
+14/09/2024 15:00:33 longitud: 
+14/09/2024 15:01:15 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 15:06:59 Entra en conversor 1
+14/09/2024 15:07:02 Parametros
+14/09/2024 15:07:02 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 15:07:02 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0003.DAT
+14/09/2024 15:07:02 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:07:02 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:07:02 formatoDestino: WIN-1252
+14/09/2024 15:07:02 longitud: 
+14/09/2024 15:08:43 Entra en conversor 1
+14/09/2024 15:08:45 Parametros
+14/09/2024 15:08:45 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 15:08:45 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0003.DAT
+14/09/2024 15:08:45 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:08:45 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:08:45 formatoDestino: WIN-1252
+14/09/2024 15:08:45 longitud: 
+14/09/2024 15:12:54 Entra en conversor 1
+14/09/2024 15:12:56 Parametros
+14/09/2024 15:12:56 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 15:12:56 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0003.DAT
+14/09/2024 15:12:56 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:12:56 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:12:56 formatoDestino: WIN-1252
+14/09/2024 15:12:56 longitud: 
+14/09/2024 15:21:27 Entra en conversor 1
+14/09/2024 15:21:32 Parametros
+14/09/2024 15:21:32 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:21:32 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:21:32 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:21:32 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:21:32 formatoDestino: WIN-1252
+14/09/2024 15:21:32 longitud: 
+14/09/2024 15:21:53 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 15:21:54 Ha convertido
+14/09/2024 15:22:26 Entra en conversor 1
+14/09/2024 15:22:30 Parametros
+14/09/2024 15:22:30 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:22:30 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:22:30 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:22:30 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:22:30 formatoDestino: WIN-1252
+14/09/2024 15:22:30 longitud: 
+14/09/2024 15:24:53 Entra en conversor 1
+14/09/2024 15:25:03 Parametros
+14/09/2024 15:25:03 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:25:03 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:25:03 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:25:03 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:25:03 formatoDestino: WIN-1252
+14/09/2024 15:25:03 longitud: 
+14/09/2024 15:28:34 Entra en conversor 1
+14/09/2024 15:28:35 Parametros
+14/09/2024 15:28:35 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:28:35 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:28:35 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:28:35 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:28:35 formatoDestino: WIN-1252
+14/09/2024 15:28:35 longitud: 
+14/09/2024 15:29:30 Entra en conversor 1
+14/09/2024 15:29:31 Parametros
+14/09/2024 15:29:31 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:29:31 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:29:31 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:29:31 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:29:31 formatoDestino: WIN-1252
+14/09/2024 15:29:31 longitud: 
+14/09/2024 15:41:52 Entra en conversor 1
+14/09/2024 15:41:53 Parametros
+14/09/2024 15:41:53 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:41:53 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:41:53 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:41:53 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:41:53 formatoDestino: WIN-1252
+14/09/2024 15:41:53 longitud: 
+14/09/2024 15:43:44 Entra en conversor 1
+14/09/2024 15:43:45 Parametros
+14/09/2024 15:43:45 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:43:45 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:43:45 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:43:45 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:43:45 formatoDestino: WIN-1252
+14/09/2024 15:43:45 longitud: 
+14/09/2024 15:46:39 ConvertirFichero: Exception ?ndice fuera de los l?mites de la matriz.
+14/09/2024 15:46:44 Entra en conversor 1
+14/09/2024 15:46:45 Parametros
+14/09/2024 15:46:45 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 15:46:45 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 15:46:45 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 15:46:45 formatoOrigen:EBCDIC-CP284
+14/09/2024 15:46:45 formatoDestino: WIN-1252
+14/09/2024 15:46:45 longitud: 
+14/09/2024 16:06:28 Entra en conversor 1
+14/09/2024 16:06:30 Parametros
+14/09/2024 16:06:30 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.BIN
+14/09/2024 16:06:30 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP9999.DAT
+14/09/2024 16:06:30 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 16:06:30 formatoOrigen:EBCDIC-CP284
+14/09/2024 16:06:30 formatoDestino: WIN-1252
+14/09/2024 16:06:30 longitud: 
+14/09/2024 16:06:43 Ha convertido
+14/09/2024 16:13:08 Entra en conversor 1
+14/09/2024 16:13:10 Parametros
+14/09/2024 16:13:10 archivoOrigen:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.BIN
+14/09/2024 16:13:10 archivoDestino:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BI11.MIGRA.A0000031.ONLINE.COMP0002.DAT
+14/09/2024 16:13:10 archivoCpy:M:\desarrollo\zBerrituA\Moisesc\tablasDESCARGADAS\BDCOM1US.cpy
+14/09/2024 16:13:10 formatoOrigen:EBCDIC-CP284
+14/09/2024 16:13:10 formatoDestino: WIN-1252
+14/09/2024 16:13:10 longitud: 
+14/09/2024 16:13:34 Ha convertido
